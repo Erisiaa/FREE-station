@@ -25,11 +25,11 @@
 
 - type: entity
   parent: ClothingShoesBase
-  id: ClothingUnderSocksCommand
+  id: ClothingUnderSocksCommandsocks
   name: command socks
   description: Special socks given out to command members.
   components:
   - type: Sprite
-    sprite: Clothing/Under/Socks/Command/icon.png
+    sprite: Clothing/Under/Socks/Commandsocks.rsi
   - type: Clothing
-    sprite: Clothing/Under/Socks/Command/equipped-FEET.png
+    sprite: Clothing/Under/Socks/Commandsocks.rsi
